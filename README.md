@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sukria%20Akter%20Sahal&fontSize=60&fontAlignY=35&desc=IoT%20%26%20Robotics%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&animation=fadeIn" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sukria%20Akter%20Sahal&fontSize=50&fontAlignY=35&desc=IoT%20%26%20Robotics%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&animation=fadeIn" alt="Banner"/>
 </p>
 
 # 👋 Hi, I'm Most. Sukria Akter
