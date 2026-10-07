@@ -1,4 +1,10 @@
+<!-- banner part -->
+<p align = "center">
+<img src = "banner" alt = "Surkia Sahal" 
+width = "100%"/>
+</p>
 
+<!-- Name & Designation -->
 
 # 👋 Hi, I'm Most. Sukria Akter
 
