@@ -1,6 +1,6 @@
 <!-- banner part -->
 <p align = "center">
-<img src = "banner" alt = "Surkia Sahal" 
+<img src = "./assests/banner.png" alt = "Surkia Sahal" 
 width = "100%"/>
 </p>
 
@@ -15,7 +15,7 @@ width = "100%"/>
 
 ## 📖 About Me
 
-I'm a 3rd-year **IoT & Robotics Engineering** student at UFTB with a deep passion for coding and web development. Currently, I'm honing my skills as a **Full-Stack Web Developer** through Programming Hero's MERN Stack course. I love building user-friendly applications and bridging the gap between hardware and software.
+I'm a 3rd-year **IoT & Robotics Engineering** student at **UFTB** with a deep passion for coding and web development. Currently, I'm honing my skills as a **Full-Stack Web Developer** through Programming Hero's MERN Stack course. I love building user-friendly applications and bridging the gap between hardware and software.
 
 I have a strong foundation in **C**, **C++**, and **Python**, which helps me understand the logic behind both low-level and high-level programming. Now, I’m expanding my expertise into modern web technologies like **JavaScript**, **TypeScript**, **React**, and **Tailwind CSS**.
 
